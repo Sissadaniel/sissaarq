@@ -3124,13 +3124,6 @@ form .status i {
     margin-bottom: 0;
   }
     
-    .gallery{
-    height: 30px
-    }
-
-#gallery{
-    height: 50px
-}
     
 }
 @media (max-width: 767px) {
@@ -3459,27 +3452,19 @@ form .status i {
   .version-selector .version .description {
     margin-left: 0;
   }
-        .gallery{
-    height: 180px
+    
+    .gallery{
+        height: 190px
     }
-
-#gallery{
-    height: 50px
-}
 }
 
 .simplon_font {
         font-family: 'SimplonBPMono-Light';
 }
 
-
-
 .fontsize_16px {
     font-size: 16px;
 }
-
-
-
 
 
 .z_index {
