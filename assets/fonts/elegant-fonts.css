@@ -19,8 +19,8 @@
 }
 
 @font-face {
-	font-family:'AvenirLTStd-Book';
-	src:url('./fonts/AvenirLTStd-Book.otf') format('otf');
+	font-family:'Avenir-Book';
+	src:url('./fonts/Avenir-Book.otf') format('otf');
 	font-weight: normal;
 	font-style: normal;
 }
