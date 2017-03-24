@@ -3456,6 +3456,10 @@ form .status i {
     .gallery{
         height: 190px
     }
+    
+    .page-wrapper #page-content #gallery {
+    height: 10px;
+}
 }
 
 .simplon_font {
@@ -3501,4 +3505,14 @@ form .status i {
     overflow: hidden;
         width: auto;
     height: 90vh
+}
+
+
+
+.justify {
+    text-align: justify;
+}
+
+.pad_top {
+    padding-top: 20px
 }
