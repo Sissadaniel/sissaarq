@@ -11,7 +11,9 @@
 
 @font-face {
 	font-family:'SimplonBPMono-Light';
-	src:url('./fonts/SimplonBPMono-Light.otf') format('otf');
+	src:url('./fonts/SimplonBPMono-Light.otf') format('otf'),
+        url('./fonts/SimplonBPMono-Light.woff') format('woff'),
+        url('./fonts/SimplonBPMono-Light.ttf') format('ttf');
 	font-weight: normal;
 	font-style: normal;
 }

@@ -3459,7 +3459,8 @@ form .status i {
 }
 
 .simplon_font {
-        font-family: 'SimplonBPMono-Light';
+        font-family: 'SimplonBPMono-Light', sans-serif;
+    
 }
 
 .fontsize_16px {
